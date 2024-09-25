@@ -9,10 +9,14 @@ function soma (num1,num2){
 return lado*lado;
  }
  console.log(areaQuadrado(6));
-   
+
+ let num5=parseInt(prompt('digite um número'));
+ let num2=parseInt(prompt('digite um número'));
+ let num1=parseInt(prompt('digite um número'));
+
  let media= function(num5,num2,num1){
     return (num5+num2+num1)/3;
 
  }
- console.log(media(5,2,1));
- let valor=parseInt(prompt('digite tres valores para calcular a media'));
+ 
+ document.write(calculoMedia(num5,num2,num1));
