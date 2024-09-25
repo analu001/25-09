@@ -14,7 +14,7 @@ return lado*lado;
  let num2=parseInt(prompt('digite um número'));
  let num1=parseInt(prompt('digite um número'));
 
- let media= function(num5,num2,num1){
+ let calculomedia= function(num5,num2,num1){
     return (num5+num2+num1)/3;
 
  }
