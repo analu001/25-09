@@ -14,4 +14,4 @@ return lado*lado;
     return (num5+num2+num1)/3;
 
  }
- console.log(media(5,2,1))
+ console.log(media(5,2,1));
