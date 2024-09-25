@@ -15,3 +15,4 @@ return lado*lado;
 
  }
  console.log(media(5,2,1));
+ let valor=parseInt(prompt('digite tres valores para calcular a media'));
