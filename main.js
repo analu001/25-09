@@ -10,8 +10,8 @@ return lado*lado;
  }
  console.log(areaQuadrado(6));
    
- let media= function((5,2,1)/(3)){
-    return 5+2+1/3;
+ let media= function(num5,num2,num1){
+    return (num5+num2+num1)/3;
 
  }
  console.log(media(5,2,1))
