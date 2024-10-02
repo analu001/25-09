@@ -24,5 +24,5 @@
 
 
 
-let estados=[`pr`,`rs`,`mg`,`pa`,`es`,`al`,`ap`,`rj`,`am`,`sc`,`rr`,`go`,`df`,`ba`,`ac`,`se`,`to`,`sp`,`rn`,`pi`,`pb`,`ms`,`mt``,`pe`,`ma`,`ce`,`al`];
+let estados=["rj","rs","mg","pa","es","al","ap","pr","am","sc","rr","go","df","ba","ac","se","to","sp","rn","pi","pb","ms","mt","pe","ma","ce","al"];
     
