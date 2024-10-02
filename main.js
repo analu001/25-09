@@ -35,3 +35,4 @@ let estados=['rj','rs','mg','pa','es','al','ap','pr','am','sc','rr','go','df','b
         console.log(i);
         console.log(estados[i]);
     }
+    
