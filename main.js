@@ -24,15 +24,14 @@
 
 
 
-let estados=['rj','rs','mg','pa','es','al','ap','pr','am','sc','rr','go','df','ba','ac','se','to','sp','rn','pi','pb','ms','mt','pe','ma','ce','al'];
-   let i =0;
-    while (i <estados.length){
-        console.log(i);
-        console.log(estados[i]);
-        i=i+1;
-    }
-    for (let i=0; i<estados.length;i++){
-        console.log(i);
-        console.log(estados[i]);
-    }
-    
+// let estados=['rj','rs','mg','pa','es','al','ap','pr','am','sc','rr','go','df','ba','ac','se','to','sp','rn','pi','pb','ms','mt','pe','ma','ce','al'];
+//    let i =0;
+//     while (i <estados.length){
+//         console.log(i);
+//         console.log(estados[i]);
+//         i=i+1;
+//     }
+//     for (let i=0; i<estados.length;i++){
+//         console.log(i);
+//         console.log(estados[i]);
+//     }
